@@ -1,4 +1,4 @@
 jamalmalinzi-ghpages
 ====================
 
-Dumped (http://www.jamalmalinzi.com/)[Jamal Malinzi Info] into gh pages for a friend.
+Dumped (Jamal Malinzi Info)[http://www.jamalmalinzi.com] into gh pages for a friend.
